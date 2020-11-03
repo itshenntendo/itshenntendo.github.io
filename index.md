@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to my website...
 
-You can use the [editor on GitHub](https://github.com/itshenntendo/itshenntendo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hello, I am Henry. A developer from England. I am currently working on two apps for iOS.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Current Projects..
 
-### Markdown
+theChef is an app for iOS that has meals created by chefs, with properly detailed recipies and photos. As well as this, there will be detailed videos made by kind, loving chefs designed to help teach your to make healthy, balenced meals.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm also working on thePlanets. It is a basic app designed to teach young children basic facts about the planets. With basic big buttons, and pictures of the planets.
 
 ```markdown
 Syntax highlighted code block
